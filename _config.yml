@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Hyosup-Kim's Devlog"
 title_separator          : "-"
 subtitle                 : "Hyosup-Kim's Blog about Math and CS" # site tagline that appears below site title in masthead
-name                     : "Hyosup-Kim"
-description              : "Quite goob blog, maybe?"
+name                     : "Hyosup-Kim" 
+description              : "Quite goob blog, maybe?" 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

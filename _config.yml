@@ -115,8 +115,8 @@ analytics:
 author: 
   name             : "Hyosup-Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "An undergraduate SC student who likes Math"
+  location         : "Somewhere in South Korea"
   email            :
   links:
     - label: "Email"

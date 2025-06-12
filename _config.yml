@@ -21,7 +21,7 @@ title                    : "Hyosup-Kim's Devlog"
 title_separator          : "-"
 subtitle                 : "Hyosup-Kim's Blog about Math and CS" # site tagline that appears below site title in masthead
 name                     : "Hyosup-Kim" 
-description              : "Quite goob blog, maybe?" 
+description              : "Quite good blog, maybe?" 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author: 
   name             : "Hyosup-Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An undergraduate SC student who likes Math"
+  bio              : "An undergraduate CS student who likes Math"
   location         : "Somewhere in South Korea"
   email            :
   links:
